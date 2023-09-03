@@ -1,0 +1,13 @@
+*.aux
+*.glo
+*.lof
+*.log
+*.lot
+*.out
+*.synctex.gz
+*.toc
+
+.DS_Store
+texput.log
+.vscode
+.idea

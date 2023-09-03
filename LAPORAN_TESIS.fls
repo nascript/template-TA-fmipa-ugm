@@ -1,0 +1,460 @@
+PWD /Users/nas/Documents/ugm/template-skripsi-mipa-master
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt
+INPUT /Users/nas/Documents/ugm/template-skripsi-mipa-master/LAPORAN_TESIS.tex
+OUTPUT LAPORAN_TESIS.log
+INPUT ./ugmtesis.cls
+INPUT ugmtesis.cls
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/babel.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/babel.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/txtbabel.def
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/arabi/bblopts.cfg
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/arabi/bblopts.cfg
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/arabi/bblopts.cfg
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/babel-english/english.ldf
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/babel-english/english.ldf
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/babel-english/english.ldf
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/babel-indonesian/bahasa.ldf
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/babel-indonesian/bahasa.ldf
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/babel-indonesian/bahasa.ldf
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/babel-indonesian/indonesian.ldf
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/locale/en/babel-english.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/locale/en/babel-english.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/locale/en/babel-english.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/babel/locale/en/babel-en.ini
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/indentfirst.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/indentfirst.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/setspace/setspace.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/setspace/setspace.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/fontenc.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/fontenc.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/ecrm1000.tfm
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/times.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/times.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/latexsym.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/latexsym.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/report.cls
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/report.cls
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/size12.clo
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/size12.clo
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/size12.clo
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/ecrm1200.tfm
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/natbib/natbib.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/natbib/natbib.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/nomencl/nomencl.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/nomencl/nomencl.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xkeyval/xkeyval.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xkeyval/xkeyval.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/xkeyval/xkeyval.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/xkeyval/xkvutils.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ifthen.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ifthen.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma-script/tocbasic.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma-script/tocbasic.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma-script/scrbase.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma-script/scrbase.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma-script/scrlfile.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma-script/scrlfile.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma-script/scrlfile-hook.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma-script/scrlfile-hook.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma-script/scrlogo.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/koma-script/scrlogo.sty
+OUTPUT LAPORAN_TESIS.glo
+INPUT ./ADDITIONAL_PACKAGES.tex
+INPUT ./ADDITIONAL_PACKAGES.tex
+INPUT ./ADDITIONAL_PACKAGES.tex
+INPUT ./ADDITIONAL_PACKAGES.tex
+INPUT ADDITIONAL_PACKAGES.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/textcomp.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/textcomp.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/frontendlayer/tikz.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/frontendlayer/tikz.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/basiclayer/pgf.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/basiclayer/pgf.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgfrcs.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgfrcs.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfutil-common.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfutil-latex.def
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfrcs.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfrcs.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfrcs.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/pgf.revision.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/pgf.revision.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/basiclayer/pgfcore.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/basiclayer/pgfcore.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/systemlayer/pgfsys.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/systemlayer/pgfsys.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgf.cfg
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/mathcolor.ltx
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/mathcolor.ltx
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/mathcolor.ltx
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcore.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcore.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcore.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathutil.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathparser.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.random.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.round.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathcalc.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmathfloat.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfint.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgffor.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgffor.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgfkeys.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/utilities/pgfkeys.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/math/pgfmath.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/math/pgfmath.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgffor.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgffor.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/utilities/pgffor.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.geometric.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.geometric.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/shapes/pgflibraryshapes.geometric.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/shapes/pgflibraryshapes.geometric.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.misc.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.misc.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/shapes/pgflibraryshapes.misc.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/shapes/pgflibraryshapes.misc.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.symbols.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.symbols.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/shapes/pgflibraryshapes.symbols.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/shapes/pgflibraryshapes.symbols.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.arrows.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.arrows.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/shapes/pgflibraryshapes.arrows.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/shapes/pgflibraryshapes.arrows.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.callouts.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.callouts.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/shapes/pgflibraryshapes.callouts.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/shapes/pgflibraryshapes.callouts.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.multipart.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.multipart.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/shapes/pgflibraryshapes.multipart.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/shapes/pgflibraryshapes.multipart.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrows.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrows.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfit.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfit.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/float/float.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/float/float.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/booktabs/booktabs.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/booktabs/booktabs.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pbox/pbox.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pbox/pbox.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/calc.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/calc.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/multirow/multirow.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/multirow/multirow.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ulem/ulem.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/ulem/ulem.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/latex-fonts/lasy6.tfm
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hyperref.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hyperref.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ltxcmds/ltxcmds.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/iftex.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/iftex/iftex.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdftexcmds/pdftexcmds.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdftexcmds/pdftexcmds.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/infwarerr/infwarerr.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/infwarerr/infwarerr.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvsetkeys/kvsetkeys.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kvdefinekeys/kvdefinekeys.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdfescape/pdfescape.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pdfescape/pdfescape.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hycolor/hycolor.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hycolor/hycolor.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/letltxmacro/letltxmacro.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/letltxmacro/letltxmacro.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/auxhook/auxhook.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/auxhook/auxhook.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/nameref.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/refcount/refcount.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/gettitlestring/gettitlestring.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvoptions/kvoptions.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvoptions/kvoptions.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/etoolbox/etoolbox.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/etoolbox/etoolbox.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/pd1enc.def
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/pd1enc.def
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/pd1enc.def
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/intcalc/intcalc.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/intcalc/intcalc.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/puenc.def
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/puenc.def
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/puenc.def
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/url.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/url.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/bitset/bitset.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/bitset/bitset.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/bigintcalc/bigintcalc.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/atbegshi/atbegshi.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/atbegshi-ltx.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/atbegshi-ltx.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hpdftex.def
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hpdftex.def
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/hyperref/hpdftex.def
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/atveryend/atveryend.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/atveryend-ltx.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/atveryend-ltx.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/rerunfilecheck/rerunfilecheck.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/uniquecounter/uniquecounter.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/generic/uniquecounter/uniquecounter.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/csquotes/csquotes.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/csquotes/csquotes.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/csquotes/csquotes.def
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/csquotes/csquotes.def
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/csquotes/csquotes.def
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/csquotes/csquotes.cfg
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/csquotes/csquotes.cfg
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/csquotes/csquotes.cfg
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/framed/framed.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/framed/framed.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/enumitem/enumitem.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/enumitem/enumitem.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/listings.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/listings.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/lstmisc.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/lstmisc.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/lstmisc.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/listings.cfg
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/listings.cfg
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/listings.cfg
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/color.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/courier.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/courier.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bera/beramono.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bera/beramono.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/lstlang1.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/lstlang1.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/listings/lstlang1.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tocloft/tocloft.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tocloft/tocloft.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/multicol.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/multicol.sty
+INPUT ./COVER_TESIS.tex
+INPUT ./COVER_TESIS.tex
+INPUT COVER_TESIS.tex
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/t1ptm.fd
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/t1ptm.fd
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/t1ptm.fd
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
+INPUT ./LAPORAN_TESIS.aux
+INPUT ./LAPORAN_TESIS.aux
+INPUT LAPORAN_TESIS.aux
+OUTPUT LAPORAN_TESIS.aux
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
+INPUT ./LAPORAN_TESIS.out
+INPUT ./LAPORAN_TESIS.out
+INPUT LAPORAN_TESIS.out
+INPUT LAPORAN_TESIS.out
+OUTPUT LAPORAN_TESIS.pdf
+INPUT ./LAPORAN_TESIS.out
+INPUT ./LAPORAN_TESIS.out
+OUTPUT LAPORAN_TESIS.out
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8t.tfm
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmro8t.tfm
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbo8t.tfm
+INPUT ./logougm.png
+INPUT ./logougm.png
+INPUT ./logougm.png
+INPUT ./logougm.png
+INPUT ./logougm.png
+INPUT ./logougm.png
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmb8t.vf
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8r.tfm
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmbo8t.vf
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbo8r.tfm
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmr8t.vf
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT ./logougm.png
+INPUT ./logougm.png
+INPUT ./logougm.png
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8t.tfm
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr12.tfm
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr8.tfm
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr6.tfm
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmex10.tfm
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ulasy.fd
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ulasy.fd
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ulasy.fd
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/latex-fonts/lasy10.tfm
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/latex-fonts/lasy8.tfm
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmb8t.vf
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8r.tfm
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri8t.tfm
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmr8t.vf
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri8t.tfm
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmri8t.vf
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri8r.tfm
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmr8t.vf
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT ./LAPORAN_TESIS.toc
+INPUT ./LAPORAN_TESIS.toc
+INPUT LAPORAN_TESIS.toc
+OUTPUT LAPORAN_TESIS.toc
+INPUT ./LAPORAN_TESIS.lot
+INPUT ./LAPORAN_TESIS.lot
+INPUT LAPORAN_TESIS.lot
+OUTPUT LAPORAN_TESIS.lot
+INPUT ./LAPORAN_TESIS.lof
+INPUT ./LAPORAN_TESIS.lof
+INPUT LAPORAN_TESIS.lof
+OUTPUT LAPORAN_TESIS.lof
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT ./BAB_TESIS/IMAGES/gb21.png
+INPUT ./BAB_TESIS/IMAGES/gb21.png
+INPUT ./BAB_TESIS/IMAGES/gb21.png
+INPUT ./BAB_TESIS/IMAGES/gb21.png
+INPUT ./BAB_TESIS/IMAGES/gb21.png
+INPUT ./BAB_TESIS/IMAGES/gb21.png
+INPUT LAPORAN_TESIS.aux
+INPUT ./LAPORAN_TESIS.out
+INPUT ./LAPORAN_TESIS.out
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi8.pfb
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi8.pfb
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy8.pfb
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy8.pfb
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmb8a.pfb
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmb8a.pfb
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmb8a.pfb
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmb8a.pfb
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmr8a.pfb
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmr8a.pfb
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmri8a.pfb
+INPUT /Users/nas/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmri8a.pfb
